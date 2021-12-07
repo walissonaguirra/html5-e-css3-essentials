@@ -22,7 +22,7 @@ Projeto prático HTML5 e CSS3 Essentials desenvolvido no curso da UpInside Trein
 <!-- LICENSE -->
 ## License
 
-Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais informações.
+Distribuído sob a licença GNU General Public License v3.0. Veja `LICENSE.txt` para mais informações.
 
 <p align="right">(<a href="#-html5-e-css3-essentials">volta ao topo</a>)</p>
 
