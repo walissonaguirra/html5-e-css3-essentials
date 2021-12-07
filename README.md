@@ -1,5 +1,5 @@
 # 🕶 HTML5 e CSS3 Essentials
-![HTML5 e CSS3 Essentials Screen Gif](https://github.com/walissonaguirra/html5-e-css3-essentials/raw/main/html5-e-css3-essentials-screen.gif)
+![HTML5 e CSS3 Essentials Screen Gif](html5-e-css3-essentials-screen.gif)
 
 
 
