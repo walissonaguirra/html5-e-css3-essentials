@@ -18,6 +18,11 @@ Projeto prático HTML5 e CSS3 Essentials desenvolvido no curso da UpInside Trein
 
 <p align="right">(<a href="#-html5-e-css3-essentials">volta ao topo</a>)</p>
 
+<!-- Google Lighthouse -->
+## Google Lighthouse
+![Google Lighthouse](google-lighthouse-print.png)
+
+<p align="right">(<a href="#readme">volta ao topo</a>)</p>
 
 <!-- LICENSE -->
 ## License
